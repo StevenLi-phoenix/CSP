@@ -1,0 +1,31 @@
+[2022-05-31 11:37:24] [INFO] : [92mLogging started[0m
+[2022-05-31 11:37:24] [INFO] : [92mLogging level: INFO[0m
+[2022-05-31 11:37:24] [INFO] : [92mLogging file: /Users/lishuyu/PycharmProjects/CSP/log/0531-practice-rabbit_2022-05-31_11-37-24.log[0m
+[2022-05-31 11:37:24] [WARNING] : [93muuid4 is not installed.Fallback to random[0m
+[2022-05-31 11:37:27] [INFO] : [92mYr:0,	 January:	 total: 4[0m
+[2022-05-31 11:37:27] [INFO] : [92mYr:0,	 February:	 total: 4[0m
+[2022-05-31 11:37:27] [INFO] : [92mYr:0,	 March:	 total: 4[0m
+[2022-05-31 11:37:27] [INFO] : [92mYr:0,	 April:	 total: 8[0m
+[2022-05-31 11:37:27] [INFO] : [92mYr:0,	 May:	 total: 8[0m
+[2022-05-31 11:37:27] [INFO] : [92mYr:0,	 June:	 total: 8[0m
+[2022-05-31 11:37:27] [INFO] : [92mYr:0,	 July:	 total: 16[0m
+[2022-05-31 11:37:27] [INFO] : [92mYr:0,	 August:	 total: 16[0m
+[2022-05-31 11:37:27] [INFO] : [92mYr:0,	 September:	 total: 16[0m
+[2022-05-31 11:37:27] [INFO] : [92mYr:0,	 October:	 total: 32[0m
+[2022-05-31 11:37:27] [INFO] : [92mYr:0,	 November:	 total: 32[0m
+[2022-05-31 11:37:27] [INFO] : [92mYr:0,	 December:	 total: 32[0m
+[2022-05-31 11:37:27] [INFO] : [92mYr:1,	 January:	 total: 64[0m
+[2022-05-31 11:37:27] [INFO] : [92mYr:1,	 February:	 total: 64[0m
+[2022-05-31 11:37:27] [INFO] : [92mYr:1,	 March:	 total: 64[0m
+[2022-05-31 11:37:27] [INFO] : [92mYr:1,	 April:	 total: 128[0m
+[2022-05-31 11:37:27] [INFO] : [92mYr:1,	 May:	 total: 128[0m
+[2022-05-31 11:37:27] [INFO] : [92mYr:1,	 June:	 total: 128[0m
+[2022-05-31 11:37:27] [INFO] : [92mYr:1,	 July:	 total: 256[0m
+[2022-05-31 11:37:27] [INFO] : [92mYr:1,	 August:	 total: 256[0m
+[2022-05-31 11:37:27] [INFO] : [92mYr:1,	 September:	 total: 256[0m
+[2022-05-31 11:37:27] [INFO] : [92mYr:1,	 October:	 total: 512[0m
+[2022-05-31 11:37:27] [INFO] : [92mYr:1,	 November:	 total: 512[0m
+[2022-05-31 11:37:27] [INFO] : [92mYr:1,	 December:	 total: 512[0m
+[2022-05-31 11:37:27] [INFO] : [92mYr:2,	 January:	 total: 1024[0m
+[2022-05-31 11:37:27] [INFO] : [92mLogging stopped[0m
+[2022-05-31 11:37:27] [INFO] : [92mLogging file closed[0m

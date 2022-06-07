@@ -1,0 +1,22 @@
+[2022-05-31 11:36:04] [INFO] : [92mLogging started[0m
+[2022-05-31 11:36:04] [INFO] : [92mLogging level: INFO[0m
+[2022-05-31 11:36:04] [INFO] : [92mLogging file: /Users/lishuyu/PycharmProjects/CSP/log/0531-practice-rabbit.log[0m
+[2022-05-31 11:36:04] [WARNING] : [93muuid4 is not installed.Fallback to random[0m
+[2022-05-31 11:36:06] [INFO] : [92mYr:0, : January total: 4[0m
+[2022-05-31 11:36:06] [INFO] : [92mYr:0, : February total: 4[0m
+[2022-05-31 11:36:06] [INFO] : [92mYr:0, : March total: 4[0m
+[2022-05-31 11:36:06] [INFO] : [92mYr:0, : April total: 8[0m
+[2022-05-31 11:36:06] [INFO] : [92mYr:0, : May total: 8[0m
+[2022-05-31 11:36:06] [INFO] : [92mYr:0, : June total: 8[0m
+[2022-05-31 11:36:06] [INFO] : [92mYr:0, : July total: 16[0m
+[2022-05-31 11:36:06] [INFO] : [92mYr:0, : August total: 16[0m
+[2022-05-31 11:36:06] [INFO] : [92mYr:0, : September total: 16[0m
+[2022-05-31 11:36:06] [INFO] : [92mYr:0, : October total: 32[0m
+[2022-05-31 11:36:06] [INFO] : [92mYr:0, : November total: 32[0m
+[2022-05-31 11:36:06] [INFO] : [92mYr:0, : December total: 32[0m
+[2022-05-31 11:36:06] [INFO] : [92mYr:1, : January total: 64[0m
+[2022-05-31 11:36:06] [INFO] : [92mYr:1, : February total: 64[0m
+[2022-05-31 11:36:06] [INFO] : [92mYr:1, : March total: 64[0m
+[2022-05-31 11:36:06] [INFO] : [92mYr:1, : April total: 128[0m
+[2022-05-31 11:36:06] [INFO] : [92mLogging stopped[0m
+[2022-05-31 11:36:06] [INFO] : [92mLogging file closed[0m
