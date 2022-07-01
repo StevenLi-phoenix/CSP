@@ -5,7 +5,6 @@ import logging, datetime, atexit
 DEBUG = False
 VERBOSE = False
 
-
 # ======================================================== classes ========================================================
 class bcolors:  # console and log colors setting
     HEADER = '\033[95m'
