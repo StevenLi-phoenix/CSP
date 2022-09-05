@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Auction</title>
+</head>
+<body>
+<div id="price">
+    auction index
+    <input id="priceindex" type="text"></input>
+    auction price
+    <input id="pricevalue" type="text"></input>
+    <button id="submitprice" onclick="fetch('/test')
+            .then(res => res.text())
+            .then(response => document.getElementById('content').innerText)">Submit</button>
+    <br>
+</div>
+<div id="query">
+    query index
+    <input id="queryValue" type="text">
+    <button id="submitValue" onclick="">Submit</button>
+    <br>
+</div>
+<div id="query all">
+    query all
+    <button name="submitQueryAll" onclick="">Submit</button>
+    <br>
+</div>
+<div id="text">
+
+</div>
+</body>
+<script type="text/javascript">
+    //
+        window.onload = function(){
+            var price = document.getElementById("priceindex")
+        }
+
+
+</script>
+</html>
